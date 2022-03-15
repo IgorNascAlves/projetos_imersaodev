@@ -1,0 +1,47 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://www.bankrate.com/2020/06/02131848/Meir-Jacob-Getty.jpeg?auto=webp&optimize=high&crop=16:9");
+  background-color: #000000;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  background-color: yellow;
+  margin: 0 0 5px;
+  font-weight: bold;
+}
+
+.page-subtitle {
+  background-color: yellow;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {  
+  background-color: yellow;
+}
