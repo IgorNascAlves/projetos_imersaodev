@@ -1,5 +1,3 @@
-console.log(process.env['ACCESS_TOKEN'])
-
 function Adicionar() {
   chave = document.getElementById("URL").value;
   valor = document.getElementById("Img").value;
